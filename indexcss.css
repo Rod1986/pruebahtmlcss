@@ -42,13 +42,6 @@
   .col-offset-12{margin-left: 100.0%;}
 }
 
-  </style>
-
-header{
-  text-align: justify;
-
-}
-
 .fondo{
   width:100%;
   position:relative;
@@ -70,6 +63,5 @@ aside{
 }
 
 footer{
-  display:inline;
   height:5%;
 }
